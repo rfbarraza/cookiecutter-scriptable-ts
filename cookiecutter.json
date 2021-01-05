@@ -1,0 +1,16 @@
+{
+  "full_name": "Rene Barraza",
+  "email": "rfbarraza@gmail.com",
+  "github_username": "rfbarraza",
+
+  "project_name": "Scriptable TS",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-').replace('_', '-') }}",
+  "project_short_description": "Boilerplate for a Scriptable script written in Typescript",
+  "license": ["GNU AGPLv3",
+              "GNU GPLv3",
+              "GNU LGPLv3",
+              "Apache License 2.0",
+              "MIT License",
+              "BSD License",
+              "Not Licensed"]
+}
